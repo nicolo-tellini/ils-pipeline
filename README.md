@@ -1,6 +1,6 @@
 # ils-pipeline
 
-29/12/2023 thi page is under construction.
+29/12/2023 this page is under construction.
 
 About admixtr : https://bodkan.net/admixr/
 
