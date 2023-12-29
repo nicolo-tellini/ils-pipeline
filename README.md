@@ -2,7 +2,7 @@
 
 29/12/2023 this page is under construction.
 
-The pipeline specificaly test for the quartet: WE (P1) - test sample (P2) - EU S.par (P3) - S. jurei (O).
+The pipeline specificaly test for the quartet: Wine/Eurepean S.cerevisiae (P1) -   S.cerevisiae test sample (P2) - European Saccharomyces paradoxus (P3) - Saccharomyces jurei (O).
 
 In contrast to other software, the 'D function' executes a formula where the numerator is determined by the difference between BABA and ABBA.
 
