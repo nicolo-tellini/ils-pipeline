@@ -4,6 +4,13 @@
 
 The pipeline specificaly test for the quartet: Wine/Eurepean S.cerevisiae (P1) -   S.cerevisiae test sample (P2) - European Saccharomyces paradoxus (P3) - Saccharomyces jurei (O).
 
+A schematic about the ABBA and BABA patterns across P1, P2, P3, and O.
+
+<p align="center">
+  <img src="https://github.com/nicolo-tellini/ils-pipeline/blob/main/img/abba-baba-github.png" width="1000" height="350"/> 
+</p>
+
+
 In contrast to other software, the 'D function' executes a formula where the numerator is determined by the difference between BABA and ABBA.
 
 Negative, statistically significant D values, indeed support the presence of introgression.
